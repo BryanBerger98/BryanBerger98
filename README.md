@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 Passionate about automation, optimization and efficiency: 
-that's why I am a developer.
+that's why I am a **developer**.
+<br/>
 <br/>
 Passionate about sharing and learning:
-that's why I am a teacher.
+that's why I am a **teacher**.
 
 ### My best skills ❤️
 
