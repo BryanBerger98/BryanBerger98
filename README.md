@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Passionate about automation, optimization and efficiency: 
+that's why I am a developer.
+
+Passionate about sharing and learning:
+that's why I am a teacher.
+
+My best skills:
+
+
+
 <!--
 **BryanBerger98/BryanBerger98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
