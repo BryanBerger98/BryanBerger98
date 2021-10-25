@@ -8,7 +8,7 @@ that's why I am a teacher.
 
 ### My best skills:
 
-
+<img src="https://user-images.githubusercontent.com/39988518/138675903-08a076cc-21f3-4585-b7bc-a1ef9305fdbb.png" alt="Angular Logo" width="80" height="80"><img src="https://user-images.githubusercontent.com/39988518/138675919-f1358215-f77f-44a0-81a6-4849871e887d.png" alt="Node JS Logo" width="80" height="80"><img src="https://user-images.githubusercontent.com/39988518/138675929-83193f43-0f6a-4230-9875-44b1d3fea524.png" alt="Mongo DB Logo" width="80" height="80">
 
 <!--
 **BryanBerger98/BryanBerger98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
