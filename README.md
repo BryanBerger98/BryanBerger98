@@ -1,10 +1,21 @@
-## Hi there 👋
+<h1 align="center">
+  <span>Bryan BERGER</span><br>
+  <span>👨‍💻 Developer & teacher 👨‍🏫</span>
+</h1>
 
-Passionate about automation, optimization and efficiency: 
-that's why I am a **developer**.
-<br/>
-Passionate about sharing and learning:
-that's why I am a **teacher**.
+<p align="center">
+  Passionate about automation, optimization and efficiency: that's why I am a <strong>developer</strong>.<br/>
+  Passionate about sharing and learning: that's why I am a <strong>teacher</strong>.
+</p>
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bryanbrg/)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCCdFltUcI4kquBPHDhCko2Q)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@bryan.berger98)
+[<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/11840909/bryan-berger)
+
+ </div>
 
 ### My best skills ❤️
 
@@ -16,3 +27,6 @@ that's why I am a **teacher**.
 
 ### My environment 🖥️
 <img src="https://user-images.githubusercontent.com/39988518/138678289-e9a7dc03-4ce3-46d5-a459-193fa9d450fa.png" alt="Apple Logo" width="50" height="50" title="Apple"><img src="https://user-images.githubusercontent.com/39988518/138677722-7e01e30c-1a93-4b8a-874d-2f9433686169.png" alt="Git Logo" width="50" height="50" title="Git"><img src="https://user-images.githubusercontent.com/39988518/138678426-3a050c4d-af63-42c7-8032-bf7441a93cd3.png" alt="Visual Studio Code Logo" width="50" height="50" title="Visual Studio Code">
+
+### Currently learning 🧠
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" title="Rust" alt="Rust badge" />
