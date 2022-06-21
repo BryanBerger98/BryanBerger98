@@ -29,4 +29,4 @@
 <img src="https://user-images.githubusercontent.com/39988518/138678289-e9a7dc03-4ce3-46d5-a459-193fa9d450fa.png" alt="Apple Logo" width="50" height="50" title="Apple"><img src="https://user-images.githubusercontent.com/39988518/138677722-7e01e30c-1a93-4b8a-874d-2f9433686169.png" alt="Git Logo" width="50" height="50" title="Git"><img src="https://user-images.githubusercontent.com/39988518/138678426-3a050c4d-af63-42c7-8032-bf7441a93cd3.png" alt="Visual Studio Code Logo" width="50" height="50" title="Visual Studio Code">
 
 ### Currently learning 🧠
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" title="Rust" alt="Rust badge" />
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" title="Rust" alt="Rust badge" /> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" title="Go" alt="Go badge" />
