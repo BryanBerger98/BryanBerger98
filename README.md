@@ -16,18 +16,67 @@
 [<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/11840909/bryan-berger)
 [<img src="https://img.shields.io/badge/Udemy-8e43e7?style=for-the-badge&logo=udemy&logoColor=white" />](https://www.udemy.com/user/berger-bryan/)
 
- </div>
+</div>
 
-### My best skills ❤️
+## My skills 🚀
 
-<img src="https://user-images.githubusercontent.com/39988518/138675903-08a076cc-21f3-4585-b7bc-a1ef9305fdbb.png" alt="Angular Logo" width="90" height="90" title="Angular"><img src="https://user-images.githubusercontent.com/39988518/138675919-f1358215-f77f-44a0-81a6-4849871e887d.png" alt="Node JS Logo" width="80" height="80" title="Node JS"><img src="https://user-images.githubusercontent.com/39988518/138675929-83193f43-0f6a-4230-9875-44b1d3fea524.png" alt="Mongo DB Logo" width="80" height="80" title="MongoDB"><img src="https://user-images.githubusercontent.com/39988518/143005072-60c4e2b6-1b2c-4ac8-8404-45026c30614c.png" alt="TypeScript Logo" width="80" height="80" title="TypeScript">
+### 👅 Languages
 
-### All my skills 🚀
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/39988518/167617803-aac1febf-9358-4704-ad72-214f2a6355d4.png" alt="Next JS Logo" width="50" height= "50" title="Next JS"><img src="https://user-images.githubusercontent.com/39988518/157606024-89cdc35e-4a9d-408a-8f39-73ea76876b57.png" alt="ReactJS Logo" width="55" height= "50" title="React"><img src="https://user-images.githubusercontent.com/39988518/155844372-d521c37a-60f9-446d-8ea0-36cbf48eb7ad.jpg" alt="SolidJS Logo" width="50" height="50" title="SolidJS"><img src="https://user-images.githubusercontent.com/39988518/138676778-21521e15-2560-44b6-8905-05b5e22dba39.png" alt="Ionic Logo" width="50" height="50" title="Ionic"><img src="https://user-images.githubusercontent.com/39988518/138677002-d6bae22c-1fc5-4e2b-80a9-727d7a9c52c2.png" alt="Nest JS Logo" width="50" height="50" title="Nest JS"><img src="https://user-images.githubusercontent.com/39988518/138677320-1bc1e2f6-6945-4f05-bc4d-43db0f351b23.png" alt="Angular Material Logo" width="50" height="50" title="Angular Material"><img src="https://user-images.githubusercontent.com/39988518/138677610-097f49e8-534b-4d02-9841-4ed7205fffbe.png" alt="Firebase Logo" width="50" height="50" title="Firebase"><img src="https://user-images.githubusercontent.com/39988518/138677430-8df144e2-dd3a-44b4-b65d-a55d09128632.png" alt="Bootstrap Logo" width="50" height="50" title="Bootstrap"><img src="https://user-images.githubusercontent.com/39988518/138677804-0f3a52ea-05d8-46f5-9d65-19e1c23b007c.png" alt="Materialize Logo" width="50" height="50" title="Materialize"><img src="https://user-images.githubusercontent.com/39988518/138677832-96115e32-b7d6-4d76-bac6-e552672f23fb.jpg" alt="Tailwind CSS Logo" width="50" height="50" title="Tailwind CSS"><img src="https://user-images.githubusercontent.com/39988518/138678498-f24d515a-145a-43fc-9a16-43bf92dc836b.png" alt="Adobe XD Logo" width="50" height="50" title="Adobe XD">
+### 🎨 Design
 
-### My environment 🖥️
-<img src="https://user-images.githubusercontent.com/39988518/138678289-e9a7dc03-4ce3-46d5-a459-193fa9d450fa.png" alt="Apple Logo" width="50" height="50" title="Apple"><img src="https://user-images.githubusercontent.com/39988518/138677722-7e01e30c-1a93-4b8a-874d-2f9433686169.png" alt="Git Logo" width="50" height="50" title="Git"><img src="https://user-images.githubusercontent.com/39988518/138678426-3a050c4d-af63-42c7-8032-bf7441a93cd3.png" alt="Visual Studio Code Logo" width="50" height="50" title="Visual Studio Code">
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/adobe_xd-%23F05BB4.svg?style=for-the-badge&logo=adobexd&logoColor=white)
+
+### 🧰 Frameworks and libraries
+
+![React](https://img.shields.io/badge/react-%232d415c.svg?style=for-the-badge&logo=react&logoColor=%2304D8F9)
+![NextJS](https://img.shields.io/badge/next_js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![SolidJS](https://img.shields.io/badge/solid_js-%232c4f7c.svg?style=for-the-badge&logo=solid&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23b52e31.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)
+![Ionic](https://img.shields.io/badge/ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/recoil-%233578e5.svg?style=for-the-badge&logo=recoiljs&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### 📱 UI
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-%2300D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white)
+![AntDesign](https://img.shields.io/badge/ant_design-%230170FE.svg?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind_css-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular Material](https://img.shields.io/badge/angular_material-%233f51b5.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+### ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/node_js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nest_js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🗄 Databases
+
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![RethinkDB](https://img.shields.io/badge/rethink_db-%23B5B5B6.svg?style=for-the-badge&logo=rethink&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🖥️ Environment
+
+![apple](https://img.shields.io/badge/apple-black.svg?style=for-the-badge&logo=apple&logoColor=white)
+![VS Code](https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Insomnia](https://img.shields.io/badge/insomia-%234000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+### 📈 Project Management & No-code
+
+![Trello](https://img.shields.io/badge/trello-%230052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Click Up](https://img.shields.io/badge/click_up-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
 
 ### Currently learning 🧠
 <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" title="Rust" alt="Rust badge" /> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" title="Go" alt="Go badge" />
