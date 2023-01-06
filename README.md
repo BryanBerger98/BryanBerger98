@@ -8,15 +8,22 @@
   Passionate about sharing and learning: that's why I am a <strong>teacher</strong>.
 </p>
 
+<h3 align="center">
+⬇️ Check out my network links ! ⬇️
+</h3>
+
 <div align="center">
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bryanbrg/)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCCdFltUcI4kquBPHDhCko2Q)
+[<img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" />](https://www.udemy.com/user/berger-bryan/)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@bryan.berger98)
 [<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/11840909/bryan-berger)
 [<img src="https://img.shields.io/badge/Udemy-8e43e7?style=for-the-badge&logo=udemy&logoColor=white" />](https://www.udemy.com/user/berger-bryan/)
 
 </div>
+
+<br />
 
 ## My skills 🚀
 
