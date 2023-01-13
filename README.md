@@ -85,5 +85,9 @@
 ![Notion](https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Click Up](https://img.shields.io/badge/click_up-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
 
-### Currently learning 🧠
+### 🧠 Currently learning
 <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" title="Rust" alt="Rust badge" /> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" title="Go" alt="Go badge" />
+
+### ✅ Personnal conventions, rules and practicies
+
+Checkout my personnal development conventions, rules and practicies [HERE](https://github.com/BryanBerger98/personal-conventions)
