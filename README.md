@@ -9,13 +9,13 @@
 </p>
 
 <h3 align="center">
-⬇️ Check out my network links ! ⬇️
+⬇️ Check out my links ! ⬇️
 </h3>
 
 <div align="center">
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bryanbrg/)
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCCdFltUcI4kquBPHDhCko2Q)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@atomicreact)
 [<img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/hS4uyFfEav)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@bryan.berger98)
 [<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/11840909/bryan-berger)
@@ -23,6 +23,7 @@
 
 </div>
 
+<br />
 <br />
 
 ## My skills 🚀
