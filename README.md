@@ -2,11 +2,6 @@
  <img src="./hello.svg" style="width: 100%" alt="Click to see the source" />
 </div>
 
-<p align="center">
-  Passionate about automation, optimization and efficiency: that's why I am a <strong>developer</strong>.<br/>
-  Passionate about sharing and learning: that's why I am a <strong>teacher</strong>.
-</p>
-
 <h3 align="center">
 ⬇️ Check out my links ! ⬇️
 </h3>
